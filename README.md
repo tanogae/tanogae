@@ -3,14 +3,23 @@
 **Backend Developer** con esperienza nello sviluppo di applicazioni web enterprise e processi business-critical.  
 Nel tempo ho ricoperto ruoli di **Developer**, **Team Leader** e **Scrum Master**, unendo competenze tecniche solide a visione di prodotto e delivery Agile.
 
+# Ciao, sono Gaetano Pizzol | Senior Backend Developer (.NET) 🚀
+
+Costruisco applicazioni web enterprise affidabili, con focus su **scalabilità**, **manutenibilità** e **valore di business**.  
+Ho esperienza diretta come **Developer**, **Team Leader** e **Scrum Master** in prodotti per contabilità, fatturazione e processi amministrativi complessi.
+
+🔹 Stack principale: **.NET · C# · ASP.NET Core · React · SQL · ElasticSearch**  
+🔹 Certificazioni: **CSPO® · A-CSM® · CSM®**  
+
 ---
 
-## 🔭 Su cosa lavoro
+## ✅ Cosa porto a un team
 
-- Applicazioni .NET per contabilità, fatturazione e flussi amministrativi
-- Evoluzione di backend scalabili e manutenibili
-- Integrazione con frontend moderni (React)
-- Miglioramento continuo di team e processi con framework Scrum
+- **Ownership end-to-end**: dall’analisi al rilascio in produzione
+- **Approccio product-oriented**: priorità alle feature che generano impatto reale
+- **Qualità del codice**: attenzione a architettura, testabilità e debito tecnico
+- **Collaborazione Agile**: allineamento continuo tra tech, business e stakeholder
+- **Leadership operativa**: esperienza nella guida di team e nella delivery under pressure
 
 ---
 
@@ -22,13 +31,10 @@ Nel tempo ho ricoperto ruoli di **Developer**, **Team Leader** e **Scrum Master*
 
 ### Frontend
 - React
-- Angular
-- Backbone
 - JavaScript / jQuery
 
 ### Data & Search
 - SQL
-- ElasticSearch
 - RavenDB
 
 ### Process & Delivery
