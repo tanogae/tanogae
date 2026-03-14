@@ -1,8 +1,3 @@
-# Ciao, sono Gaetano Pizzol 👋
-
-**Backend Developer** con esperienza nello sviluppo di applicazioni web enterprise e processi business-critical.  
-Nel tempo ho ricoperto ruoli di **Developer**, **Team Leader** e **Scrum Master**, unendo competenze tecniche solide a visione di prodotto e delivery Agile.
-
 # Ciao, sono Gaetano Pizzol | Senior Backend Developer (.NET) 🚀
 
 Costruisco applicazioni web enterprise affidabili, con focus su **scalabilità**, **manutenibilità** e **valore di business**.  
