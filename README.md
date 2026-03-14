@@ -4,7 +4,7 @@
 Costruisco applicazioni web enterprise affidabili, con focus su **scalabilità**, **manutenibilità** e **valore di business**.  
 Ho esperienza diretta come **Developer**, **Team Leader** e **Scrum Master** in prodotti per contabilità, fatturazione e processi amministrativi complessi.
 
-🔹 Stack principale: **.NET · C# · ASP.NET Core · React · SQL · ElasticSearch**  
+🔹 Stack principale: **.NET · C# · ASP.NET Core · React · SQL **  
 🔹 Certificazioni: **CSPO® · A-CSM® · CSM®**  
 
 ---
