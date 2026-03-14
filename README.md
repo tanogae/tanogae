@@ -1,4 +1,5 @@
-# Ciao, sono Gaetano Pizzol | Senior Backend Developer (.NET) 🚀
+# Ciao, sono Gaetano Pizzol 
+### Senior Backend Developer (.NET) 🚀
 
 Costruisco applicazioni web enterprise affidabili, con focus su **scalabilità**, **manutenibilità** e **valore di business**.  
 Ho esperienza diretta come **Developer**, **Team Leader** e **Scrum Master** in prodotti per contabilità, fatturazione e processi amministrativi complessi.
