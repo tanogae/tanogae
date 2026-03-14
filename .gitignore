@@ -1,0 +1,8 @@
+﻿# Ignore everything
+*
+
+# Keep this file itself
+!.gitignore
+
+# Keep README at repository root
+!README.md
